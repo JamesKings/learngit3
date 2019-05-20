@@ -1,4 +1,7 @@
 hello
 good morning
+<<<<<<< HEAD
+=======
 AAA
+>>>>>>> xiaoming/demo1
 BBB
